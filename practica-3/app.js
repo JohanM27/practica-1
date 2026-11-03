@@ -2,9 +2,9 @@ function crearSaludo(nombre) {
   return `Hola, ${nombre}!`;
 }
 
-function mostrarSaludo(nombre) {
+function mostrarSaludo(nombre, salida) {
   const saludo = crearSaludo(nombre);
-  console.log(saludo);
+  salida.log(saludo);
 }
 
-mostrarSaludo("Mundo");
+mostrarSaludo("Mundo", console);
