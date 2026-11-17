@@ -1,0 +1,9 @@
+{
+  "name": "practica-5-clinica-codigo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clínica de código: cálculo de compras antes y después de refactorizar",
+  "scripts": {
+    "test": "node --test"
+  }
+}
