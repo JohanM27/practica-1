@@ -8,4 +8,4 @@
 
 ## Propiedad del repositorio
 
-Token de la práctica 6: `LEARN-CAP-AAf98C6D`
+Token de la práctica 6: `LEARN-CAP-AAF98C6D`
