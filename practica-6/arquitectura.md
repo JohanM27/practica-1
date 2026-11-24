@@ -1,5 +1,7 @@
 # Práctica 6: Arquitectura C4 de la calculadora de compras
 
+**Token de propiedad:** `LEARN-CAP-AAf98C6D`
+
 ## Alcance del modelo
 
 El repositorio contiene prácticas independientes, no una aplicación única de
